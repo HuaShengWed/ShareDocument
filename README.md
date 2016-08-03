@@ -7,6 +7,8 @@
 [Swift 开源项目精选](https://github.com/ipader/SwiftGuide/blob/master/Featured.md)
 ##web前端
 ##Java后台
+[Intelli iead 使用教程 包括安装，配置，使用，插件等](http://wiki.jikexueyuan.com/project/intellij-idea-tutorial/)
+ass
 ##设计
 ##运维
 ##测试
