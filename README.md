@@ -1,6 +1,7 @@
 #华盛技术部
 分享优质内容的链接，共享给所有人。
 ##Android
+[Android Tools](http://www.androiddevtools.cn/)  
 [Android Studio插件整理](http://url.cn/28eHqTS)  
 [学习RecyclerView看它就够了](https://github.com/CymChad/CymChad.github.io)
 ##ios
