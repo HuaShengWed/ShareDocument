@@ -8,6 +8,7 @@
 [Swift 开源项目精选](https://github.com/ipader/SwiftGuide/blob/master/Featured.md)  
 [iOS中粘性动画以及果冻效果的实现](http://www.cocoachina.com/ios/20150618/12171.html)  
 ##web前端
+[使用Flexible实现手淘H5页面的终端适配](http://www.w3cplus.com/mobile/lib-flexible-for-html5-layout.html)
 ##Java后台
 [Intellij idea 使用教程 包括安装，配置，使用，插件等](http://wiki.jikexueyuan.com/project/intellij-idea-tutorial/)  
 ##设计
