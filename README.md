@@ -11,6 +11,7 @@
 ##Java后台
 [Intellij idea 使用教程 包括安装，配置，使用，插件等](http://wiki.jikexueyuan.com/project/intellij-idea-tutorial/)  
 ##设计
+[UI切换动效的6大要素](http://www.zcool.com.cn/article/ZNDE5NDg4.html)   
 ##运维
 [大型网站系统架构演化之路](https://github.com/HuaShengWed/ShareDocument/blob/master/res/大型网站系统架构演化之路.pdf)  
 [使用谷歌身份验证器增强SSH安全](http://www.cnblogs.com/plan123/p/5579513.html)  
