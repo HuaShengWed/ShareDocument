@@ -7,6 +7,7 @@
 ##ios
 [Swift 开源项目精选](https://github.com/ipader/SwiftGuide/blob/master/Featured.md)  
 [iOS中粘性动画以及果冻效果的实现](http://www.cocoachina.com/ios/20150618/12171.html)  
+[我从55个Swift标准库协议中学到了什么？](http://www.cocoachina.com/swift/20160107/14868.html)  
 ##web前端
 [使用Flexible实现手淘H5页面的终端适配](http://www.w3cplus.com/mobile/lib-flexible-for-html5-layout.html)
 ##Java后台
@@ -20,5 +21,6 @@
 [使用谷歌身份验证器增强SSH安全](http://www.cnblogs.com/plan123/p/5579513.html)  
 [最好的原型-线框图设计工具之一Balsamiq Mockups](https://balsamiq.com/products/mockups/)  
 ##测试
-[Jmeter接口测试](http://www.spasvo.com/ceshi/open/kyxncsgj/Jmeter/201674142901.html)
+[Jmeter接口测试](http://www.spasvo.com/ceshi/open/kyxncsgj/Jmeter/201674142901.html)  
 ##共用
+[搞定需求变化](http://www.cocoachina.com/programmer/20160805/17301.html)  
