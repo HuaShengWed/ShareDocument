@@ -11,8 +11,8 @@
 ##web前端
 [使用Flexible实现手淘H5页面的终端适配](http://www.w3cplus.com/mobile/lib-flexible-for-html5-layout.html)
 ##Java后台
-[Intellij idea 使用教程 包括安装，配置，使用，插件等](http://wiki.jikexueyuan.com/project/intellij-idea-tutorial/)
-[Mybatis通用Mapper] (http://blog.csdn.net/isea533/article/details/41457529)
+[Intellij idea 使用教程 包括安装，配置，使用，插件等](http://wiki.jikexueyuan.com/project/intellij-idea-tutorial/)  
+[Mybatis通用Mapper] (http://blog.csdn.net/isea533/article/details/41457529)  
 ##设计
 [UI切换动效的6大要素](http://www.zcool.com.cn/article/ZNDE5NDg4.html)   
 [梁景红色彩设计法则 视频教程 淘宝买网盘免费看！密码：s1xi ](http://pan.baidu.com/s/1skRWU8t)  
