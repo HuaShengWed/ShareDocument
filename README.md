@@ -31,3 +31,4 @@
 [Jmeter接口测试](http://www.spasvo.com/ceshi/open/kyxncsgj/Jmeter/201674142901.html)  
 ##共用
 [搞定需求变化](http://www.cocoachina.com/programmer/20160805/17301.html)  
+[Python教程](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
