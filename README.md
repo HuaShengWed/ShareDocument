@@ -34,6 +34,8 @@
 ##测试
 [Jmeter接口测试](http://www.spasvo.com/ceshi/open/kyxncsgj/Jmeter/201674142901.html)  
 [Selenium教程](http://www.yiibai.com/selenium/selenium_webdriver.html)  
+[一个国外比较著名的性能（压力）在线测试站点Load Impact](https://loadimpact.com/)
 ##共用
 [搞定需求变化](http://www.cocoachina.com/programmer/20160805/17301.html)  
 [Python教程](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
+[SCRUM敏捷开发详解图文教程](http://www.pptschool.com/1889.html)  
