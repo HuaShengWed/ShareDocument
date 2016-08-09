@@ -18,6 +18,7 @@
 [node.js教程] (http://www.yiibai.com/nodejs/)  
 [SonarQube代码质量管理平台介绍,安装] (http://blog.csdn.net/hunterno4/article/details/11687269)  
 [jquery html5 css 教程，视频以及案例详细解说] (http://www.h5edu.cn/index.php?a=alllesson)  
+[jquery 控件大全](http://www.jq22.com/)
 ##设计
 [UI切换动效的6大要素](http://www.zcool.com.cn/article/ZNDE5NDg4.html)   
 [梁景红色彩设计法则 视频教程 淘宝买网盘免费看！密码：s1xi ](http://pan.baidu.com/s/1skRWU8t)  
