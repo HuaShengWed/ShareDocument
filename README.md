@@ -28,6 +28,7 @@
 [最好的原型-线框图设计工具之一Balsamiq Mockups](https://balsamiq.com/products/mockups/)  
 [Linux 入门教程](http://www.92csz.com/study/linux/)  
 [JDeploy自动化部署平台](https://github.com/wucao/JDeploy)  
+[老牌服务监控工具zabbix安装部署详解（Server端篇）](http://blog.chinaunix.net/uid-25266990-id-3380929.html)  
 ##测试
 [Jmeter接口测试](http://www.spasvo.com/ceshi/open/kyxncsgj/Jmeter/201674142901.html)  
 [Selenium教程](http://www.yiibai.com/selenium/selenium_webdriver.html)  
