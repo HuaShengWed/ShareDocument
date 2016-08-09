@@ -9,7 +9,7 @@
 [iOS中粘性动画以及果冻效果的实现](http://www.cocoachina.com/ios/20150618/12171.html)  
 [我从55个Swift标准库协议中学到了什么？](http://www.cocoachina.com/swift/20160107/14868.html)  
 [GitHub 上 iOS 开源库 Top 100](http://ios.jobbole.com/84388/)  
-[模式匹配第四弹：if case, guard case, for case](https://chengway.in/mo-shi-pi-pei-di-si-dan-if-case-guard-case-for-case/) 
+[模式匹配第四弹：if case, guard case, for case](https://chengway.in/mo-shi-pi-pei-di-si-dan-if-case-guard-case-for-case/)   
 [Swift 中枚举高级用法及实践](http://swift.gg/2015/11/20/advanced-practical-enum-examples/?utm_source=tuicool&utm_medium=referral)  
 ##web前端
 [使用Flexible实现手淘H5页面的终端适配](http://www.w3cplus.com/mobile/lib-flexible-for-html5-layout.html)
