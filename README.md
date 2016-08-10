@@ -5,8 +5,8 @@
 [Android Studio插件整理](http://url.cn/28eHqTS)  
 [学习RecyclerView看它就够了](https://github.com/CymChad/CymChad.github.io)  
 [深入浅出聊聊Gradle三两事](http://crash.163.com/#news/!newsId=21)   
-[Retrofit用法详解](http://duanyytop.github.io/2016/08/06/Retrofit%E7%94%A8%E6%B3%95%E8%AF%A6%E8%A7%A3/)
-[RxJava用法文档]（https://mcxiaoke.gitbooks.io/rxdocs/content/operators/Sample.html）
+[Retrofit用法详解](http://duanyytop.github.io/2016/08/06/Retrofit%E7%94%A8%E6%B3%95%E8%AF%A6%E8%A7%A3/)  
+[RxJava用法文档](https://mcxiaoke.gitbooks.io/rxdocs/content/operators/Sample.html)
 ##ios
 [Swift 开源项目精选](https://github.com/ipader/SwiftGuide/blob/master/Featured.md)  
 [iOS中粘性动画以及果冻效果的实现](http://www.cocoachina.com/ios/20150618/12171.html)  
