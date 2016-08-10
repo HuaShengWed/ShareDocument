@@ -34,6 +34,7 @@
 [使用谷歌身份验证器增强SSH安全](http://www.cnblogs.com/plan123/p/5579513.html)  
 [最好的原型-线框图设计工具之一Balsamiq Mockups](https://balsamiq.com/products/mockups/)  
 [Linux 入门教程](http://www.92csz.com/study/linux/)  
+[Linux下MySQ重新设置root密码](http://jingyan.baidu.com/article/1709ad80a8caf14634c4f013.html)
 [JDeploy自动化部署平台](https://github.com/wucao/JDeploy)  
 [老牌服务监控工具zabbix安装部署详解（Server端篇）](http://blog.chinaunix.net/uid-25266990-id-3380929.html)  
 ##测试
