@@ -2,10 +2,24 @@
 分享优质内容的链接，共享给所有人。
 ##Android
 [Android Tools](http://www.androiddevtools.cn/)  
+[Android 社区,代码,博客,工具](http://androidcat.com/?step=6&view=CatFragment)  
+[Android 开发中的日常积累](https://github.com/lizhangqu/CoreLink)  
+[Android UX库名单](https://github.com/wasabeef/awesome-android-ui)  
+[开源项目分类汇总](https://github.com/Trinea/android-open-project)  
+[Android Gems](http://www.android-gems.com/category)  
+[Android CodeKK](http://p.codekk.com/)  
+[Android 库和资源](http://alamkanak.github.io/android-libraries-and-resources/)  
+[Android 社区,代码,博客,工具](http://www.androiddevtools.cn/)  
+[Android 开发者酷站](http://www.diycode.cc/sites)  
+[Android 技巧集合](http://jaeger.itscoder.com/android/2016/02/14/android-studio-tips.html)  
+[Android Futurice开源软件](http://futurice.github.io/)  
+[Android developer portal with tools, libraries, and apps
+Show all recent](http://android-arsenal.com/)  
+[Android 国外社区](https://github.com/bignerdranch)  
+[Android ReactiveX](http://reactivex.io/tutorials.html)  
 [Android Studio插件整理](http://url.cn/28eHqTS)  
 [学习RecyclerView看它就够了](https://github.com/CymChad/CymChad.github.io)  
-[RxJava用法文档](https://mcxiaoke.gitbooks.io/rxdocs/content/operators/Sample.html)  
-[Retrofit用法详解](http://duanyytop.github.io/2016/08/06/Retrofit%E7%94%A8%E6%B3%95%E8%AF%A6%E8%A7%A3/)    
+[Retrofit用法详解](http://duanyytop.github.io/2016/08/06/Retrofit%E7%94%A8%E6%B3%95%E8%AF%A6%E8%A7%A3/)
 ##ios
 [Swift 开源项目精选](https://github.com/ipader/SwiftGuide/blob/master/Featured.md)  
 [iOS中粘性动画以及果冻效果的实现](http://www.cocoachina.com/ios/20150618/12171.html)  
