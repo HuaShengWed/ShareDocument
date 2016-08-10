@@ -49,6 +49,7 @@ Show all recent](http://android-arsenal.com/)
 [小而美app“余音” 简洁 黑白风 文艺 配图](http://android.myapp.com/myapp/detail.htm?apkName=fm.wawa.mg)  
 [推荐10个工具，提升你的创作效率！](http://www.ui.cn/detail/155472.html)  
 [王者不修图，线上学习教程，照片后期](http://www.gogoup.com/course/GNjc=)
+[刘兵克六年字集-字体设计550例](http://www.zcool.com.cn/work/ZMTc2MjMzOTI=.html)
 ##运维
 [大型网站系统架构演化之路](https://github.com/HuaShengWed/ShareDocument/blob/master/res/大型网站系统架构演化之路.pdf)  
 [使用谷歌身份验证器增强SSH安全](http://www.cnblogs.com/plan123/p/5579513.html)  
