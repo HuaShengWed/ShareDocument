@@ -57,6 +57,7 @@ Show all recent](http://android-arsenal.com/)
 [Linux下MySQ重新设置root密码](http://jingyan.baidu.com/article/1709ad80a8caf14634c4f013.html)  
 [JDeploy自动化部署平台](https://github.com/wucao/JDeploy)  
 [老牌服务监控工具zabbix安装部署详解（Server端篇）](http://blog.chinaunix.net/uid-25266990-id-3380929.html)  
+[Keepalived+Nginx架构](https://blog.linuxeye.com/447.html)  
 ##测试
 [Jmeter接口测试](http://www.spasvo.com/ceshi/open/kyxncsgj/Jmeter/201674142901.html)  
 [Selenium教程](http://www.yiibai.com/selenium/selenium_webdriver.html)  
