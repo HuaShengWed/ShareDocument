@@ -2,7 +2,6 @@
 分享优质内容的链接，共享给所有人。
 ##Android
 [Android Tools](http://www.androiddevtools.cn/)  
-[Android 社区,代码,博客,工具](http://androidcat.com/?step=6&view=CatFragment)  
 [Android 开发中的日常积累](https://github.com/lizhangqu/CoreLink)  
 [Android UX库名单](https://github.com/wasabeef/awesome-android-ui)  
 [开源项目分类汇总](https://github.com/Trinea/android-open-project)  
