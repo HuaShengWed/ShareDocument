@@ -56,6 +56,7 @@ Show all recent](http://android-arsenal.com/)
 [刘兵克六年字集-字体设计550例](http://www.zcool.com.cn/work/ZMTc2MjMzOTI=.html)  
 [美食（食品）创意摄影－汤汤集锦](http://www.zcool.com.cn/u/1312331)   
 [个人珍藏版超级赞！世界风景360度浏览风景照片质量超高](http://www.airpano.com/)  
+[“+”大法好！创意logo设计思路案例——part1(图痒app灵感案例)](http://www.zcool.com.cn/article/ZNDI1MTYw.html?utm_source=gold_browser_extension)  
 
 ##运维
 [大型网站系统架构演化之路](https://github.com/HuaShengWed/ShareDocument/blob/master/res/大型网站系统架构演化之路.pdf)  
