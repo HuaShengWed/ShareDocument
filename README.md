@@ -54,6 +54,7 @@ Show all recent](http://android-arsenal.com/)
 [Lina Skukauskė高质量摄影图](https://www.behance.net/linaskukauske)  
 [刘兵克六年字集-字体设计550例](http://www.zcool.com.cn/work/ZMTc2MjMzOTI=.html)  
 [美食（食品）创意摄影－汤汤集锦](http://www.zcool.com.cn/u/1312331)   
+[支付宝真的是做社交之心不死吗？](http://www.woshipm.com/it/390804.html)   
 
 ##运维
 [大型网站系统架构演化之路](https://github.com/HuaShengWed/ShareDocument/blob/master/res/大型网站系统架构演化之路.pdf)  
