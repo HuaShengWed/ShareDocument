@@ -60,6 +60,7 @@ Show all recent](http://android-arsenal.com/)
 [个人珍藏版超级赞！世界风景360度浏览风景照片质量超高](http://www.airpano.com/)  
 [书法字体设计总集](http://1193431591.zcool.com.cn/)  
 [毛笔字制作](http://www.zcool.com.cn/work/ZMzA3OTA3Ng==.html)  
+[版式－排版四部曲](http://www.zcool.com.cn/article/ZNDI1NzUy.html?utm_source=gold_browser_extension)  
 
 ##运维
 [大型网站系统架构演化之路](https://github.com/HuaShengWed/ShareDocument/blob/master/res/大型网站系统架构演化之路.pdf)  
