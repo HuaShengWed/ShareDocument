@@ -64,6 +64,7 @@ Show all recent](http://android-arsenal.com/)
 [UC头条App|信息流中一股清流](http://www.zcool.com.cn/work/ZMTc3MTc3NjQ=.html#)  
 [3分钟任意图形制作成为超写实风格](http://www.zcool.com.cn/article/ZNDI1NzYw.html?utm_source=gold_browser_extension)  
 [你了解字体的组合方式吗](http://www.zcool.com.cn/article/ZMTA5MjU2.html)  
+[一张照片如何排版？](http://www.zcool.com.cn/article/ZMTExMDY4.html#)  
 
 ##运维
 [大型网站系统架构演化之路](https://github.com/HuaShengWed/ShareDocument/blob/master/res/大型网站系统架构演化之路.pdf)  
