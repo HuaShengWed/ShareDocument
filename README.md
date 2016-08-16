@@ -74,14 +74,17 @@ Show all recent](http://android-arsenal.com/)
 [JDeploy自动化部署平台](https://github.com/wucao/JDeploy)  
 [老牌服务监控工具zabbix安装部署详解（Server端篇）](http://blog.chinaunix.net/uid-25266990-id-3380929.html)  
 [Keepalived+Nginx架构](https://blog.linuxeye.com/447.html)  
-[OSI七层与TCP/IP五层网络架构详解](http://www.2cto.com/net/201310/252965.html)
+[OSI七层与TCP/IP五层网络架构详解](http://www.2cto.com/net/201310/252965.html)  
+[linux下logrotate 配置和理解](http://blog.chinaunix.net/uid-26425645-id-4847077.html)  
+
 ##测试
 [Jmeter接口测试](http://www.spasvo.com/ceshi/open/kyxncsgj/Jmeter/201674142901.html)  
 [Selenium教程](http://www.yiibai.com/selenium/selenium_webdriver.html)  
-[一个国外比较著名的性能（压力）在线测试站点Load Impact](https://loadimpact.com/)
-[selenium2 Java 自动化测试实战]http://www.cnblogs.com/fnng/
-[一些好用的 App 云测试平台](https://testerhome.com/topics/5485)
-[app安全性测试](https://testerhome.com/topics/3514)
+[一个国外比较著名的性能（压力）在线测试站点Load Impact](https://loadimpact.com/)  
+[selenium2 Java 自动化测试实战](http://www.cnblogs.com/fnng/)  
+[一些好用的 App 云测试平台](https://testerhome.com/topics/5485)  
+[app安全性测试](https://testerhome.com/topics/3514)  
+
 ##共用
 [搞定需求变化](http://www.cocoachina.com/programmer/20160805/17301.html)  
 [Python教程](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)  
