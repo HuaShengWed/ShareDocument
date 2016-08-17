@@ -87,9 +87,9 @@ Show all recent](http://android-arsenal.com/)
 [一个国外比较著名的性能（压力）在线测试站点Load Impact](https://loadimpact.com/)  
 [selenium2 Java 自动化测试实战](http://www.cnblogs.com/fnng/)  
 [一些好用的 App 云测试平台](https://testerhome.com/topics/5485)  
-[app安全性测试](https://testerhome.com/topics/3514) 
-[软件易用性测试](http://www.spasvo.com/news/html/list_1_1.html)
-[web端测试要点](http://www.spasvo.com/news/html/2016725113826.html)
+[app安全性测试](https://testerhome.com/topics/3514)  
+[软件易用性测试](http://www.spasvo.com/news/html/list_1_1.html)  
+[web端测试要点](http://www.spasvo.com/news/html/2016725113826.html)  
 
 ##共用
 [搞定需求变化](http://www.cocoachina.com/programmer/20160805/17301.html)  
