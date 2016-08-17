@@ -87,6 +87,8 @@ Show all recent](http://android-arsenal.com/)
 [selenium2 Java 自动化测试实战](http://www.cnblogs.com/fnng/)  
 [一些好用的 App 云测试平台](https://testerhome.com/topics/5485)  
 [app安全性测试](https://testerhome.com/topics/3514)  
+[关于Web端测试](http://www.spasvo.com/news/html/2016725113826_2.html)
+[软件易用性测试]（http://www.spasvo.com/news/html/2016720153616.html）
 
 ##共用
 [搞定需求变化](http://www.cocoachina.com/programmer/20160805/17301.html)  
