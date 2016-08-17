@@ -79,6 +79,7 @@ Show all recent](http://android-arsenal.com/)
 [OSI七层与TCP/IP五层网络架构详解](http://www.2cto.com/net/201310/252965.html)  
 [linux下logrotate 配置和理解](http://blog.chinaunix.net/uid-26425645-id-4847077.html)  
 [Linux下监控工具Nagios(俗称难搞死)的安装与配置](http://www.cnblogs.com/mchina/archive/2013/02/20/2883404.html)  
+[CentOS配置LVM (逻辑卷管理)](http://www.cnblogs.com/mchina/p/linux-centos-logical-volume-manager-lvm.html)  
 
 ##测试
 [Jmeter接口测试](http://www.spasvo.com/ceshi/open/kyxncsgj/Jmeter/201674142901.html)  
