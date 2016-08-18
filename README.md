@@ -66,6 +66,7 @@ Show all recent](http://android-arsenal.com/)
 [你了解字体的组合方式吗](http://www.zcool.com.cn/article/ZMTA5MjU2.html)  
 [省时高效工具篇！25个不能错过的设计工具集合](http://www.uisdc.com/25-great-design-tools-collection#)  
 [一张照片如何排版？](http://www.zcool.com.cn/article/ZMTExMDY4.html#)  
+[浅谈日式网站 我们需要学会哪些？](http://www.zcool.com.cn/article/ZNDEyMjY0.html)  
 
 ##运维
 [大型网站系统架构演化之路](https://github.com/HuaShengWed/ShareDocument/blob/master/res/大型网站系统架构演化之路.pdf)  
