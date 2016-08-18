@@ -81,6 +81,7 @@ Show all recent](http://android-arsenal.com/)
 [linux下logrotate 配置和理解](http://blog.chinaunix.net/uid-26425645-id-4847077.html)  
 [Linux下监控工具Nagios(俗称难搞死)的安装与配置](http://www.cnblogs.com/mchina/archive/2013/02/20/2883404.html)  
 [CentOS配置LVM (逻辑卷管理)](http://www.cnblogs.com/mchina/p/linux-centos-logical-volume-manager-lvm.html)  
+[CentOS Squid代理服务器的安装与配置](http://www.cnblogs.com/mchina/p/centos-squid-proxy-server.html)  
 
 ##测试
 [Jmeter接口测试](http://www.spasvo.com/ceshi/open/kyxncsgj/Jmeter/201674142901.html)  
