@@ -68,6 +68,7 @@ Show all recent](http://android-arsenal.com/)
 [一张照片如何排版？](http://www.zcool.com.cn/article/ZMTExMDY4.html#)  
 [浅谈日式网站 我们需要学会哪些？](http://www.zcool.com.cn/article/ZNDEyMjY0.html)  
 [主色与副色——迅速提升色彩搭配能力的思维](http://www.zcool.com.cn/article/ZMTQwNTY0.html)  
+[大猫|字体设计](http://www.zcool.com.cn/work/ZMTc3OTY4NDA=.html)  
 
 ##运维
 [大型网站系统架构演化之路](https://github.com/HuaShengWed/ShareDocument/blob/master/res/大型网站系统架构演化之路.pdf)  
