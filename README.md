@@ -70,6 +70,7 @@ Show all recent](http://android-arsenal.com/)
 [主色与副色——迅速提升色彩搭配能力的思维](http://www.zcool.com.cn/article/ZMTQwNTY0.html)  
 [大猫|字体设计](http://www.zcool.com.cn/work/ZMTc3OTY4NDA=.html)  
 [sketch如何解决0.1像素误差](https://www.zhihu.com/question/35256192)  
+[常用的基础英文字体推荐](http://www.zcool.com.cn/article/ZMTc1NDc2.html#)  
 
 ##运维
 [大型网站系统架构演化之路](https://github.com/HuaShengWed/ShareDocument/blob/master/res/大型网站系统架构演化之路.pdf)  
