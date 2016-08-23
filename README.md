@@ -87,6 +87,7 @@ Show all recent](http://android-arsenal.com/)
 [CentOS配置LVM (逻辑卷管理)](http://www.cnblogs.com/mchina/p/linux-centos-logical-volume-manager-lvm.html)  
 [CentOS Squid代理服务器的安装与配置](http://www.cnblogs.com/mchina/p/centos-squid-proxy-server.html)  
 [互联网业务安全之通用安全风险模型](http://www.cnblogs.com/alisecurity/p/5780648.html)  
+[各种主流SQLServer迁移到MySQL工具对比](http://www.cnblogs.com/overblue/p/5796887.html)  
 
 ##测试
 [Jmeter接口测试](http://www.spasvo.com/ceshi/open/kyxncsgj/Jmeter/201674142901.html)  
