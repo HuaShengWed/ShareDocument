@@ -73,6 +73,7 @@ Show all recent](http://android-arsenal.com/)
 [常用的基础英文字体推荐](http://www.zcool.com.cn/article/ZMTc1NDc2.html#)  
 [设计师笔记](https://zhuanlan.zhihu.com/p/22110742)  
 [app展示方案](http://www.zcool.com.cn/work/ZMTc3NDcxNTY=.html)  
+[be-插画中的纸片风格字体](https://www.behance.net/gallery/9405759/AI-AND-KY)  
 
 ##运维
 [大型网站系统架构演化之路](https://github.com/HuaShengWed/ShareDocument/blob/master/res/大型网站系统架构演化之路.pdf)  
