@@ -79,6 +79,7 @@ Show all recent](http://android-arsenal.com/)
 [设计中的层次和层级](http://www.zcool.com.cn/article/ZNDI4OTYw.html?utm_source=gold_browser_extension)  
 [2016年里约奥运会H5精品合集！](http://www.zcool.com.cn/article/ZNDI4NTg4.html?utm_source=gold_browser_extension)  
 [祖父的六抽小柜](https://www.amazon.cn/mn/detailApp?asin=B00HV9VGQ0&tag=baidhydrcn-23&hvadid=2852764316&hvdev=c&ref=pd_sl_9929hvwi0z_p)  
+[生活就是一场运动会 GIF海报](http://www.digitaling.com/projects/18594.html)  
 
 ##运维
 [大型网站系统架构演化之路](https://github.com/HuaShengWed/ShareDocument/blob/master/res/大型网站系统架构演化之路.pdf)  
