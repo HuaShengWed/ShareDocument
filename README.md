@@ -111,6 +111,7 @@ Show all recent](http://android-arsenal.com/)
 [app安全性测试](https://testerhome.com/topics/3514)  
 [软件易用性测试](http://www.spasvo.com/news/html/list_1_1.html)  
 [web端测试要点](http://www.spasvo.com/news/html/2016725113826.html)  
+[web接口测试工具--Jmeter](http://www.cnblogs.com/fnng/p/5827577.html)
 
 ##共用
 [搞定需求变化](http://www.cocoachina.com/programmer/20160805/17301.html)  
