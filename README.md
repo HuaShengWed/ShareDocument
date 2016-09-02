@@ -83,6 +83,7 @@ Show all recent](http://android-arsenal.com/)
 [汤臣杰逊【家电项目策划思路剖析】(原创文章) ](http://www.zcool.com.cn/article/ZNDI4NTY0.html?utm_source=gold_browser_extension)  
 [8招教你玩转［视觉引导］ ](http://www.zcool.com.cn/article/ZNDI5NzQ4.html)  
 [许巍字体海报3.0《刊落声华》 ](http://www.zcool.com.cn/work/ZMTc5NTM1ODA=.html)  
+[一套包含APP&WEB模板，配色板，图标的优质UI组件打包](https://xituqu.com/337.html)  
 
 ##运维
 [大型网站系统架构演化之路](https://github.com/HuaShengWed/ShareDocument/blob/master/res/大型网站系统架构演化之路.pdf)  
