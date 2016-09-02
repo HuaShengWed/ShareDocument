@@ -84,6 +84,7 @@ Show all recent](http://android-arsenal.com/)
 [8招教你玩转［视觉引导］ ](http://www.zcool.com.cn/article/ZNDI5NzQ4.html)  
 [许巍字体海报3.0《刊落声华》 ](http://www.zcool.com.cn/work/ZMTc5NTM1ODA=.html)  
 [一套包含APP&WEB模板，配色板，图标的优质UI组件打包](https://xituqu.com/337.html)  
+[各种「弹窗」有学名，从此不再分不清](http://blog.kevin-li.com/post/design/ge-chong-dan-chuang-you-xue-ming-cong-ci-bu-zai-fen-bu-qing)  
 
 ##运维
 [大型网站系统架构演化之路](https://github.com/HuaShengWed/ShareDocument/blob/master/res/大型网站系统架构演化之路.pdf)  
