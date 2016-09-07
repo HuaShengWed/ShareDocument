@@ -87,6 +87,7 @@ Show all recent](http://android-arsenal.com/)
 [各种「弹窗」有学名，从此不再分不清](http://blog.kevin-li.com/post/design/ge-chong-dan-chuang-you-xue-ming-cong-ci-bu-zai-fen-bu-qing)  
 [100种个人中心页面的设计！](http://mp.weixin.qq.com/s?__biz=MjM5MjUwMzE2MA==&mid=2680518748&idx=1&sn=52885ae6249e60d57824ce3de223a62c&scene=1&srcid=0830eoKCKOVeYR3nLOk9lgVV#rd)  
 [想搞定移动端APP/网页设计，你起码要做好这些事情！](http://www.uisdc.com/mobile-design-techinques#)  
+[记天猫 iOS “借图”动效的设计与收获](https://zhuanlan.zhihu.com/p/22245797)  
 
 ##运维
 [大型网站系统架构演化之路](https://github.com/HuaShengWed/ShareDocument/blob/master/res/大型网站系统架构演化之路.pdf)  
