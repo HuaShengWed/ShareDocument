@@ -89,6 +89,7 @@ Show all recent](http://android-arsenal.com/)
 [想搞定移动端APP/网页设计，你起码要做好这些事情！](http://www.uisdc.com/mobile-design-techinques#)  
 [记天猫 iOS “借图”动效的设计与收获](https://zhuanlan.zhihu.com/p/22245797)  
 [帮你全面彻底搞定MATERIAL DESIGN的学习笔记](http://www.uisdc.com/comprehensive-material-design-note#)  
+[App项目实战之路(四):UI篇](http://gold.xitu.io/post/57b31cb8a633bd00571801fd)  
 
 ##运维
 [大型网站系统架构演化之路](https://github.com/HuaShengWed/ShareDocument/blob/master/res/大型网站系统架构演化之路.pdf)  
