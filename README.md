@@ -90,7 +90,8 @@ Show all recent](http://android-arsenal.com/)
 [记天猫 iOS “借图”动效的设计与收获](https://zhuanlan.zhihu.com/p/22245797)  
 [帮你全面彻底搞定MATERIAL DESIGN的学习笔记](http://www.uisdc.com/comprehensive-material-design-note#)  
 [App项目实战之路(四):UI篇](http://gold.xitu.io/post/57b31cb8a633bd00571801fd)  
-[PS人像后期教程：《四月》林初寒个人写真集(ps：林初寒是我的偶像！！！)](http://www.zcool.com.cn/article/ZNDMyNTAw.html)  
+[PS人像后期教程：《四月》林初寒个人写真集(ps：林初寒是我的偶像！！！)](http://www.zcool.com.cn/article/ZNDMyNTAw.html)    
+[2016年UI设计趋势分析](http://www.zcool.com.cn/article/ZNDMzMzA0.html)   
 
 ##运维
 [大型网站系统架构演化之路](https://github.com/HuaShengWed/ShareDocument/blob/master/res/大型网站系统架构演化之路.pdf)  
