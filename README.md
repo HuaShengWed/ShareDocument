@@ -92,6 +92,7 @@ Show all recent](http://android-arsenal.com/)
 [App项目实战之路(四):UI篇](http://gold.xitu.io/post/57b31cb8a633bd00571801fd)  
 [PS人像后期教程：《四月》林初寒个人写真集(ps：林初寒是我的偶像！！！)](http://www.zcool.com.cn/article/ZNDMyNTAw.html)    
 [2016年UI设计趋势分析](http://www.zcool.com.cn/article/ZNDMzMzA0.html)   
+[看Airbnb是如何设计房东、房客这套信任体系的](https://mp.weixin.qq.com/s?__biz=MjM5MTg2NDA3MQ==&mid=2651876134&idx=2&sn=2566f26d8f51bf6ec7ec74bd1b8c1fad)   
 
 ##运维
 [大型网站系统架构演化之路](https://github.com/HuaShengWed/ShareDocument/blob/master/res/大型网站系统架构演化之路.pdf)  
