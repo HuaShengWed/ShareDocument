@@ -94,6 +94,7 @@ Show all recent](http://android-arsenal.com/)
 [2016年UI设计趋势分析](http://www.zcool.com.cn/article/ZNDMzMzA0.html)   
 [看Airbnb是如何设计房东、房客这套信任体系的](https://mp.weixin.qq.com/s?__biz=MjM5MTg2NDA3MQ==&mid=2651876134&idx=2&sn=2566f26d8f51bf6ec7ec74bd1b8c1fad)   
 [Sketch 中文手册](http://sketch.im/manual/)   
+[13个关于2017年的设计预言](http://www.uisdc.com/2017-design-trends-prediction)   
 
 ##运维
 [大型网站系统架构演化之路](https://github.com/HuaShengWed/ShareDocument/blob/master/res/大型网站系统架构演化之路.pdf)  
