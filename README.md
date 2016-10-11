@@ -101,6 +101,9 @@ Show all recent](http://android-arsenal.com/)
 [设计师应该用这些 Chrome 扩展](https://zhuanlan.zhihu.com/p/22696859)  
 [原创作品：玖月书法字体精选](http://www.zcool.com.cn/work/ZMTg0MTIxNDA=.html)  
 [关于智能对象必知的10件事](http://www.uisdc.com/10-things-about-smart-objects)  
+[海报合成中的透视技巧(2)](http://www.zcool.com.cn/article/ZNDM4NDIw.html)  
+
+
 ##运维
 [大型网站系统架构演化之路](https://github.com/HuaShengWed/ShareDocument/blob/master/res/大型网站系统架构演化之路.pdf)  
 [使用谷歌身份验证器增强SSH安全](http://www.cnblogs.com/plan123/p/5579513.html)  
