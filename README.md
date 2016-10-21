@@ -102,6 +102,7 @@ Show all recent](http://android-arsenal.com/)
 [原创作品：玖月书法字体精选](http://www.zcool.com.cn/work/ZMTg0MTIxNDA=.html)  
 [关于智能对象必知的10件事](http://www.uisdc.com/10-things-about-smart-objects)  
 [海报合成中的透视技巧(2)](http://www.zcool.com.cn/article/ZNDM4NDIw.html)  
+[高高手REDESIGN-Android-Material Design and ios重设计](http://www.zcool.com.cn/work/ZMTg2NDU5MDQ=.html)  
 
 
 ##运维
